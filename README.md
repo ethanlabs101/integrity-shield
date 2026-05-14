@@ -9,4 +9,4 @@
 
 ![integrity-shield1](https://github.com/ethanlabs101/integrity-shield/blob/main/images/integrity-shield.png)
 
-> Designed as a simple but practical introduction to filesystem security concepts, hashing, and CLI tool design.
+## > Designed as a simple but practical introduction to filesystem security concepts, hashing, and CLI tool design.
