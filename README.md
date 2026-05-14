@@ -49,3 +49,17 @@
    - Missing
 
 ---
+
+# Installation
+
+1. Clone This Repo
+```html
+git clone https://github.com/ethanlabs101/integrity-shield.git
+```
+2. Run Script
+```html
+cd integrity-shield
+python3 main.py
+```
+
+> Only Python and Git required to run. No extra external dependencies needed
