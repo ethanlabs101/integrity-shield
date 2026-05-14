@@ -29,7 +29,7 @@
 ---
 
 # 🧠 What I Learned Building This
-- ## This project was built to strengthen my understanding of:
+## ***This project was built to strengthen my understanding of:***
   - Python file handling
   - Directory Transversal
   - Hashing Algorithms
