@@ -11,3 +11,6 @@
 
 ![integrity-shield1](https://github.com/ethanlabs101/integrity-shield/blob/main/images/integrity-shield.png)
 
+---
+
+# 🚀 Features
