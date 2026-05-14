@@ -1,4 +1,4 @@
-# Integrity Checker (Python) 🛡️
+# Integrity Checker 🛡️
 
 ![Python](https://img.shields.io/badge/Python-EF1FFF?style=for-the-badge&logo=python&logoColor=white)
 
