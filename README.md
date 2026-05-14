@@ -50,7 +50,7 @@
 
 ---
 
-# Installation
+# 📦 Installation
 
 1. Clone This Repo
 ```html
