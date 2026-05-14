@@ -63,3 +63,61 @@ python3 main.py
 ```
 
 > Only Python and Git required to run. No extra external dependencies needed
+
+---
+
+# ▶️ Usage
+
+1. Run the tool:
+```html
+python3 main.py
+```
+
+2. Then Choose Menu Option:
+```html
+[1] Save Snapshot
+[2] Check Snapshot
+[3] Exit
+```
+# 📸 Save Snapshot
+- Enter target folder path
+- Tool generates SHA-256 hashes
+- Snapshot stored locally
+
+# 🔍 Check Snapshot
+- Enter the same folder path
+- Tool compares current state vs saved snapshot
+- Outputs any changes detected
+
+---
+
+# 📂 Snapshot Storage
+
+## Snapshots are stored locally in:
+```html
+~/.integrity_shield_snapshot.json
+```
+This ensures:
+- No permission issues
+- Works across different systems/users
+- Keeps project directory clean
+
+---
+
+# 📚 Tech Stack
+- Python 3
+- hashlib (SHA-256)
+- os /pathlib
+- json
+- CLI-based UI (custom TUI)
+
+---
+
+# ⚠️ Notes
+
+- Designed for user-space directory scanning (Non-system/protected files)
+- Not intended as a full system-wide/large scale audit tool
+- Uses a single snapshot database
+- Saving a new snapshot overwrites the previous stored baseline. (1 at a time)
+
+---
