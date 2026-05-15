@@ -42,7 +42,7 @@
 1. The tool scans a target directory recursively
 2. Each file is hashed using SHA-256
 3. A snapshot is saved locally
-4. Future scans compare current hashes against the saved snapshot
+4. Future scans compare current hashes against the saved snapshot to determine file(s) integrity
 5. Differences are reported as:
    - New File
    - Modified
