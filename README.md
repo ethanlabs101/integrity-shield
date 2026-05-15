@@ -16,7 +16,7 @@
 # 🔒 Why Use Integrity Shield/SHA-256?
 - Integrity Shield uses SHA-256 cryptographic hashing to verify file integrity.
 - SHA-256 produces a unique fingerprint for every file scanned.
-- Even a single byte change - whether from modification, corruption, or tampering - generates, a completely different hash value.
+- Even a single byte change - whether from modification, corruption, or tampering - generates a completely different hash value.
 
 - This allows Integrity Shield to reliably detect:
   - Modified Files
